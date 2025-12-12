@@ -41,7 +41,7 @@ python heat1d.py config.json
 ```
 3. Check results: The output will be saved to results.csv by default.
 
-##Testing
+## Testing
 To run the included tests, use pytest:
 ```bash
 pytest test_heat1d.py
